@@ -1,11 +1,11 @@
 {
-  "name": "Portfolio",
-  "short_name": "PWA",
+  "name": "Portfolio PWA",
+  "short_name": "Portfolio",
   "theme_color": "#1976d2",
   "background_color": "#fafafa",
   "display": "standalone",
-  "scope": "./",
-  "start_url": "./",
+  "scope": "/",
+  "start_url": "/?source=pwa",
   "icons": [
     {
       "src": "assets/icons/icon-72x72.png",
@@ -56,13 +56,13 @@
       "purpose": "any"
     }
   ],
-  "id": "./",
+  "id": "/?source=pwa",
   "shortcuts": [	
     {
       "name": "Portfolio",
       "short_name": "PWA1",
       "description": "PWA Lab 1",
-      "url": "./",
+      "url": "?source=pwa",
       "icons": [{ "src": "assets/icons/icon-144x144.png",
           "sizes": "144x144" }]
     },
@@ -70,7 +70,7 @@
       "name": "Portfolio",
       "short_name": "PWA2",
       "description": "PWA Lab 2",
-      "url": "./",
+      "url": "?source=pwa",
       "icons": [{ "src": "assets/icons/icon-144x144.png",
           "sizes": "144x144" }]
     }
