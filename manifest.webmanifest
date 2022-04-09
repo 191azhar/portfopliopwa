@@ -62,7 +62,7 @@
       "name": "Portfolio",
       "short_name": "PWA1",
       "description": "PWA Lab 1",
-      "url": "?source=pwa",
+      "url": "portfoliopwa/",
       "icons": [{ "src": "assets/icons/icon-144x144.png",
           "sizes": "144x144" }]
     },
@@ -70,7 +70,7 @@
       "name": "Portfolio",
       "short_name": "PWA2",
       "description": "PWA Lab 2",
-      "url": "?source=pwa",
+      "url": "portfoliopwa/",
       "icons": [{ "src": "assets/icons/icon-144x144.png",
           "sizes": "144x144" }]
     }
